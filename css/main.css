@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+	border-style: dashed;
+	border-color: green;
+	border-width: medium;
+	text-align: center;
+	background-color: white;
+	padding: 20px;
+}
+
+div{
+	border-width: 10px;
+	border-top:20px;
+	border-bottom:20px;
+	border-style: solid;
+	border-color: #9900ff;
+	padding: 40px 20px 70px 100px;
+	margin:120px 60px 30.5px;
+	background-color:#F9CB9C;
+
+}
+
+ 
